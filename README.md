@@ -42,6 +42,8 @@ Avarage Case
 
 
 
+[www.patika.dev]
+
 
 
 
